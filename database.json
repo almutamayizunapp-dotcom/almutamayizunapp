@@ -2,10 +2,10 @@
   "books": [
     {
       "id": "1773004421357",
-      "title": "اا",
+      "title": "Ø§Ø§",
       "stage": "high",
-      "grade": "الأول الثانوي",
-      "description": "اا",
+      "grade": "Ø§ÙØ£ÙÙ Ø§ÙØ«Ø§ÙÙÙ",
+      "description": "Ø§Ø§",
       "imgUrl": "https://lmutamayizunappserver.almutamayizun-app.workers.dev/?key=almutamayizun_2026&id=AgACAgQAAxkDAAMOaa3i7gKeXFjxYoXeVbY6S61bXbwAApgNaxvG4HFRe3XKymMbLzIBAAMCAAN5AAM6BA",
       "pdfUrls": [
         "https://github.com/almutamayizunapp-dotcom/almutamayizunapp/blob/main/database.json"
@@ -13,5 +13,13 @@
       "timestamp": 1773004421357
     }
   ],
-  "ads": []
+  "ads": [
+    {
+      "id": "1773004529924",
+      "type": "video",
+      "link": "https://github.com/almutamayizunapp-dotcom/almutamayizunapp/blob/main/database.json",
+      "content": "https://lmutamayizunappserver.almutamayizun-app.workers.dev/?key=almutamayizun_2026&id=AgACAgQAAxkDAAMQaa3m8W45JXIFLDczqsM4fOKs5igAApsNaxvG4HFRFPA5de7DiX4BAAMCAAN3AAM6BA",
+      "timestamp": 1773004529924
+    }
+  ]
 }
