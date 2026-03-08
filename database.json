@@ -2,10 +2,10 @@
   "books": [
     {
       "id": "1773004421357",
-      "title": "Ø§Ø§",
+      "title": "ÃÂ§ÃÂ§",
       "stage": "high",
-      "grade": "Ø§ÙØ£ÙÙ Ø§ÙØ«Ø§ÙÙÙ",
-      "description": "Ø§Ø§",
+      "grade": "ÃÂ§ÃÂÃÂ£ÃÂÃÂ ÃÂ§ÃÂÃÂ«ÃÂ§ÃÂÃÂÃÂ",
+      "description": "ÃÂ§ÃÂ§",
       "imgUrl": "https://lmutamayizunappserver.almutamayizun-app.workers.dev/?key=almutamayizun_2026&id=AgACAgQAAxkDAAMOaa3i7gKeXFjxYoXeVbY6S61bXbwAApgNaxvG4HFRe3XKymMbLzIBAAMCAAN5AAM6BA",
       "pdfUrls": [
         "https://github.com/almutamayizunapp-dotcom/almutamayizunapp/blob/main/database.json"
@@ -20,6 +20,13 @@
       "link": "https://github.com/almutamayizunapp-dotcom/almutamayizunapp/blob/main/database.json",
       "content": "https://lmutamayizunappserver.almutamayizun-app.workers.dev/?key=almutamayizun_2026&id=AgACAgQAAxkDAAMQaa3m8W45JXIFLDczqsM4fOKs5igAApsNaxvG4HFRFPA5de7DiX4BAAMCAAN3AAM6BA",
       "timestamp": 1773004529924
+    },
+    {
+      "id": "1773004669587",
+      "type": "image",
+      "link": "https://github.com/almutamayizunapp-dotcom/almutamayizunapp/blob/main/database.json",
+      "content": "https://lmutamayizunappserver.almutamayizun-app.workers.dev/?key=almutamayizun_2026&id=AgACAgQAAxkDAAMRaa3nfNlAdDXWS1_cdhHILLS5bCkAApwNaxvG4HFROqeUPfvUta8BAAMCAAN3AAM6BA",
+      "timestamp": 1773004669587
     }
   ]
 }
