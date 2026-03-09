@@ -1,18 +1,5 @@
 {
-  "books": [
-    {
-      "id": "1773004971431",
-      "title": "ةة",
-      "stage": "middle",
-      "grade": "الثاني الإعدادي",
-      "description": "ةة",
-      "imgUrl": "https://lmutamayizunappserver.almutamayizun-app.workers.dev/?key=almutamayizun_2026&id=AgACAgQAAxkDAAMTaa3oqij55CQUqaAh0XzQp-mwkBQAAp0NaxvG4HFRJgY-eFeJm-sBAAMCAAN5AAM6BA",
-      "pdfUrls": [
-        "https://github.com/almutamayizunapp-dotcom/almutamayizunapp/blob/main/database.json"
-      ],
-      "timestamp": 1773004971432
-    }
-  ],
+  "books": [],
   "ads": [
     {
       "id": "1773004529924",
