@@ -1,4 +1,12 @@
 {
   "books": [],
-  "ads": []
+  "ads": [
+    {
+      "id": "1773064230414",
+      "type": "video",
+      "link": null,
+      "content": "https://lmutamayizunappserver.almutamayizun-app.workers.dev/?key=almutamayizun_2026&id=BAACAgQAAxkDAAMZaa7QJiH9VBJLc42fx3aIU9zzfbAAAnwbAALG4HlRXmskKs9fIHM6BA",
+      "timestamp": 1773064230414
+    }
+  ]
 }
