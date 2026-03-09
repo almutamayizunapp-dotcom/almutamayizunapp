@@ -1,12 +1,4 @@
 {
   "books": [],
-  "ads": [
-    {
-      "id": "1773004851596",
-      "type": "image",
-      "link": "https://github.com/almutamayizunapp-dotcom/almutamayizunapp/blob/main/database.json",
-      "content": "https://lmutamayizunappserver.almutamayizun-app.workers.dev/?key=almutamayizun_2026&id=AgACAgQAAxkDAAMRaa3nfNlAdDXWS1_cdhHILLS5bCkAApwNaxvG4HFROqeUPfvUta8BAAMCAAN3AAM6BA",
-      "timestamp": 1773004851596
-    }
-  ]
+  "ads": []
 }
